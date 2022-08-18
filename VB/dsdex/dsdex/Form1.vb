@@ -34,23 +34,32 @@
         bio_dropsitems.Text = "Drops nothing if killed immediately in Sen's Fortress. Drops his signature big hat if
                               killed elsewhere. Also drops 'Tin Crystallization Catalyst' and the spell 
                               'White Dragon Breath'"
-        bio_soulsyield.Text = "Drops 719 souls upon death"
+        bio_soulsyield.Text = "Yields 719 souls upon death"
     End Sub
     Private Sub button_karla_Click(sender As Object, e As EventArgs) Handles button_karla.Click
         display_photos.Image = bkg_storage_kar.Image
         bio_origin.Text = "Appears only in Dark Souls III, but is a reference to the character Yuria in Demon's Souls"
         bio_lore_p1.Text = "Presumably the daughter of Alva the Explorer and Zullie the Witch. She is found imprisoned
                            in a cell within Irithyll Dungeon."
-        bio_lore_p2.Text = "placeholder"
-        bio_dropsitems.Text = "placeholder"
-        bio_soulsyield.Text = "placeholder"
+        bio_lore_p2.Text = "Able to teach dark sorcery to the player, she may also accept pyromancy and dark
+                           miracle tomes."
+        bio_dropsitems.Text = "Drops 'Karla's Ashes' upon death, as with most other characters."
+        bio_soulsyield.Text = "Yields 1000 souls upon death"
     End Sub
     Private Sub button_elfriede_Click(sender As Object, e As EventArgs) Handles button_elfriede.Click
         display_photos.Image = bkg_storage_elf.Image
-        bio_origin.Text = "placeholder"
-        bio_lore_p1.Text = "placeholder"
-        bio_lore_p2.Text = "placeholder"
-        bio_dropsitems.Text = "placeholder"
-        bio_soulsyield.Text = "placeholder"
+        bio_origin.Text = "Appears only in Dark Souls III. Is one of few to be both an NPC and a boss."
+        bio_lore_p1.Text = "Elfriede, otherwise known as Friede or Sister Friede, is one of three founding
+                           sisters of the Sable Church. She was eventually banished to the Painting of
+                           Ariandel, and came to be the companion of its painter, who also dwells within his
+                           creation."
+        bio_lore_p2.Text = "Sister Friede guards the entrance to the chamber Ariandel dwells in, exsanguinating
+                           himself to appease the flame that dwells within the golden vessel he guards. Serving
+                           Friede is a knight, Sir Vilhelm, who wields a sword imbued with her black flame -
+                           blackflame is the flames of humanity, and bear no shadow."
+        bio_dropsitems.Text = "(Phase 2) Titanite Slab
+                              (Boss) Soul of Sister Friede"
+        bio_soulsyield.Text = "(NPC) Vanishes. No souls yielded.
+                              (Boss) Yields 54,000 souls."
     End Sub
 End Class
