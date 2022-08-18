@@ -38,9 +38,9 @@
     End Sub
     Private Sub button_karla_Click(sender As Object, e As EventArgs) Handles button_karla.Click
         display_photos.Image = bkg_storage_kar.Image
-        bio_origin.Text = "Appears only in Dark Souls III, but is a reference to the predecessor of
-                          Dark Souls, Demon's Souls; specifically the character Yuria"
-        bio_lore_p1.Text = "placeholder"
+        bio_origin.Text = "Appears only in Dark Souls III, but is a reference to the character Yuria in Demon's Souls"
+        bio_lore_p1.Text = "Presumably the daughter of Alva the Explorer and Zullie the Witch. She is found imprisoned
+                           in a cell within Irithyll Dungeon."
         bio_lore_p2.Text = "placeholder"
         bio_dropsitems.Text = "placeholder"
         bio_soulsyield.Text = "placeholder"
