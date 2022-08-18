@@ -110,9 +110,8 @@ Partial Class dsdex
         Me.bio_origin.ForeColor = System.Drawing.Color.WhiteSmoke
         Me.bio_origin.Location = New System.Drawing.Point(606, 12)
         Me.bio_origin.Name = "bio_origin"
-        Me.bio_origin.Size = New System.Drawing.Size(114, 26)
+        Me.bio_origin.Size = New System.Drawing.Size(0, 26)
         Me.bio_origin.TabIndex = 6
-        Me.bio_origin.Text = "placeholder"
         '
         'bio_lore_p1
         '
@@ -121,9 +120,8 @@ Partial Class dsdex
         Me.bio_lore_p1.ForeColor = System.Drawing.Color.WhiteSmoke
         Me.bio_lore_p1.Location = New System.Drawing.Point(606, 179)
         Me.bio_lore_p1.Name = "bio_lore_p1"
-        Me.bio_lore_p1.Size = New System.Drawing.Size(114, 26)
+        Me.bio_lore_p1.Size = New System.Drawing.Size(0, 26)
         Me.bio_lore_p1.TabIndex = 7
-        Me.bio_lore_p1.Text = "placeholder"
         '
         'bio_lore_p2
         '
@@ -132,9 +130,8 @@ Partial Class dsdex
         Me.bio_lore_p2.ForeColor = System.Drawing.Color.WhiteSmoke
         Me.bio_lore_p2.Location = New System.Drawing.Point(606, 346)
         Me.bio_lore_p2.Name = "bio_lore_p2"
-        Me.bio_lore_p2.Size = New System.Drawing.Size(114, 26)
+        Me.bio_lore_p2.Size = New System.Drawing.Size(0, 26)
         Me.bio_lore_p2.TabIndex = 8
-        Me.bio_lore_p2.Text = "placeholder"
         '
         'bio_dropsitems
         '
@@ -143,9 +140,8 @@ Partial Class dsdex
         Me.bio_dropsitems.ForeColor = System.Drawing.Color.WhiteSmoke
         Me.bio_dropsitems.Location = New System.Drawing.Point(606, 513)
         Me.bio_dropsitems.Name = "bio_dropsitems"
-        Me.bio_dropsitems.Size = New System.Drawing.Size(114, 26)
+        Me.bio_dropsitems.Size = New System.Drawing.Size(0, 26)
         Me.bio_dropsitems.TabIndex = 9
-        Me.bio_dropsitems.Text = "placeholder"
         '
         'bio_soulsyield
         '
@@ -154,9 +150,8 @@ Partial Class dsdex
         Me.bio_soulsyield.ForeColor = System.Drawing.Color.WhiteSmoke
         Me.bio_soulsyield.Location = New System.Drawing.Point(606, 680)
         Me.bio_soulsyield.Name = "bio_soulsyield"
-        Me.bio_soulsyield.Size = New System.Drawing.Size(114, 26)
+        Me.bio_soulsyield.Size = New System.Drawing.Size(0, 26)
         Me.bio_soulsyield.TabIndex = 10
-        Me.bio_soulsyield.Text = "placeholder"
         '
         'bkg_storage_anr
         '
