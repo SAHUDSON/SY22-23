@@ -1,0 +1,13 @@
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\bin\Debug\I_be_shopping.exe.config
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\bin\Debug\I_be_shopping.exe
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\bin\Debug\I_be_shopping.pdb
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\bin\Debug\I_be_shopping.xml
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\obj\Debug\I_be_shopping.vbproj.AssemblyReference.cache
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\obj\Debug\I_be_shopping.vbproj.SuggestedBindingRedirects.cache
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\obj\Debug\I_be_shopping.Form1.resources
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\obj\Debug\I_be_shopping.Resources.resources
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\obj\Debug\I_be_shopping.vbproj.GenerateResource.cache
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\obj\Debug\I_be_shopping.vbproj.CoreCompileInputs.cache
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\obj\Debug\I_be_shopping.exe
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\obj\Debug\I_be_shopping.xml
+C:\Users\sahud624\Documents\SY22-23\VB\I_be_shopping\I_be_shopping\obj\Debug\I_be_shopping.pdb
