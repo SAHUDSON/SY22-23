@@ -68,7 +68,7 @@ Partial Class Form2
         Me.Label7.Font = New System.Drawing.Font("Modern No. 20", 25.8!, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label7.Location = New System.Drawing.Point(12, 9)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(240, 45)
+        Me.Label7.Size = New System.Drawing.Size(237, 45)
         Me.Label7.TabIndex = 11
         Me.Label7.Text = "Full Catalog"
         '
